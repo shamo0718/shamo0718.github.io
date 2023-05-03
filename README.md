@@ -1,0 +1,1 @@
+# shamo0718.github.io
