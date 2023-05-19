@@ -6,3 +6,5 @@
 4. 配置内网穿透cpolar
 5. 安装python环境（机器学习等）
 6. 挂载硬盘
+
+sdfssdfs
